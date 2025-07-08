@@ -1,0 +1,16 @@
+# Java-related files
+*.class
+
+
+# OS-related files
+.DS_Store
+Thumbs.db
+
+# Maven/Gradle
+target/
+build/
+
+# IDE-related
+.idea/
+.vscode/
+*.iml
